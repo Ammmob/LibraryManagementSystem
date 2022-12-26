@@ -1,0 +1,16 @@
+D:\lab\.net_lab\Library\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+D:\lab\.net_lab\Library\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+D:\lab\.net_lab\Library\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+D:\lab\.net_lab\Library\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.AssemblyReference.cache
+D:\lab\.net_lab\Library\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\lab\.net_lab\Library\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.LoginForm.resources
+D:\lab\.net_lab\Library\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.MainForm.resources
+D:\lab\.net_lab\Library\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+D:\lab\.net_lab\Library\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.cache
+D:\lab\.net_lab\Library\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\lab\.net_lab\Library\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+D:\lab\.net_lab\Library\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+D:\lab\.net_lab\Library\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.SignUpForm.resources
+D:\lab\.net_lab\Library\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Table.resources
+D:\lab\.net_lab\Library\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.EditPsdForm.resources
+D:\lab\.net_lab\Library\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.StateChangeForm.resources
