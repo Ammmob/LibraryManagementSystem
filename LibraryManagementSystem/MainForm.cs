@@ -78,12 +78,12 @@ namespace LibraryManagementSystem
             {
                 try
                 {
-                    headImage = Image.FromFile("D:\\lab\\.net_lab\\Library\\LibraryManagementSystem\\res\\users\\" + uid + ".jpg");
+                    headImage = Image.FromFile("..\\..\\res\\users\\" + uid + ".jpg");
 
                 }
                 catch
                 {
-                    headImage = Image.FromFile("D:\\lab\\.net_lab\\Library\\LibraryManagementSystem\\res\\0.jpg");
+                    headImage = Image.FromFile("..\\..\\res\\0.jpg");
                 }
             }
             pbxHead.Image = headImage;
@@ -232,12 +232,12 @@ namespace LibraryManagementSystem
     
             try
             {
-                img = Image.FromFile("D:\\lab\\.net_lab\\Library\\LibraryManagementSystem\\res\\books\\" + bid + ".jpg");
+                img = Image.FromFile("..\\..\\res\\books\\" + bid + ".jpg");
 
             }
             catch
             {
-                img = Image.FromFile("D:\\lab\\.net_lab\\Library\\LibraryManagementSystem\\res\\0.jpg");
+                img = Image.FromFile("..\\..\\res\\0.jpg");
             }
 
             pbxBook.Image = img;
